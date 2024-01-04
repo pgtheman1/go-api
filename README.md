@@ -1,1 +1,1 @@
-simple go api using net/http package and docker
+simple go api using net/http package postgres sql database and docker
